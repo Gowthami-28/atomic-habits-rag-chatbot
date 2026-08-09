@@ -21,3 +21,11 @@ Built using **LangChain**, **ChromaDB**, **Google Gemini**, and **Streamlit**.
 - pypdf
 
 ## Project Structure
+
+
+atomic-habits-rag-chatbot/
+│
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── README.md
