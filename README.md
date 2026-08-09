@@ -31,11 +31,6 @@ atomic-habits-rag-chatbot/
 ├── .gitignore
 └── README.md
 
-
-4. Save the file
-
-5. Then run these commands:
-
 ```
 
 
