@@ -32,3 +32,13 @@ atomic-habits-rag-chatbot/
 └── README.md
 
 
+4. Save the file
+
+5. Then run these commands:
+
+```
+
+
+
+
+
