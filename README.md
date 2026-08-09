@@ -24,8 +24,12 @@ Built using **LangChain**, **ChromaDB**, **Google Gemini**, and **Streamlit**.
 
 
 atomic-habits-rag-chatbot/
+
 │
 ├── app.py
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
