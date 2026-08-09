@@ -22,9 +22,9 @@ Built using **LangChain**, **ChromaDB**, **Google Gemini**, and **Streamlit**.
 
 ## Project Structure
 
+```text
 
 atomic-habits-rag-chatbot/
-
 │
 ├── app.py
 ├── requirements.txt
