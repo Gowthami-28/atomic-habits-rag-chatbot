@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 langchain
 langchain-google-genai
 langchain-community
@@ -5,3 +6,13 @@ chromadb
 pypdf
 streamlit
 python-dotenv
+=======
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
+>>>>>>> b01cd12fd78cd11ab3ace59d21d4c7ecb4320fdb
