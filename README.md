@@ -27,9 +27,8 @@ atomic-habits-rag-chatbot/
 
 │
 ├── app.py
-
 ├── requirements.txt
-
 ├── .gitignore
-
 └── README.md
+
+
