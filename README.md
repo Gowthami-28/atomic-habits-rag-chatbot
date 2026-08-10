@@ -8,27 +8,24 @@ Built using **LangChain**, **ChromaDB**, **Google Gemini**, and **Streamlit**.
 
 - Ask natural language questions about the book
 - Retrieves relevant context from the document
-- Generates accurate answers using Gemini
-- Simple and clean Streamlit interface
+- Generates answers using Gemini
+- Clean Streamlit interface
 
 ## Tech Stack
 
 - Python
 - LangChain
 - ChromaDB
-- Google Gemini (Embeddings + LLM)
+- Google Gemini
 - Streamlit
 - pypdf
 
 ## Project Structure
 
 ```text
-
 atomic-habits-rag-chatbot/
 │
 ├── app.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
-```
